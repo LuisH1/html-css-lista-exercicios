@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+}
+#titulo{
+    color:black;
+    text-shadow: 0.1em 0.1em 0.2em red;
+    text-align: center;
+
+}
+.para{
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+    border: orange;
+}
+#img{
+    padding-left: 35%;
+    width: 400px;
+    box-shadow: 7px 7px darksalmon ;
+}
+.foot{
+    padding-top: 6px;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}

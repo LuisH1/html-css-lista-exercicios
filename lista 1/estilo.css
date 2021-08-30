@@ -1,0 +1,21 @@
+p{
+    color: brown;
+}
+h1{
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: center;
+}
+h1 + p{
+    text-align:right;
+}
+body{
+    background-color: rgb(197, 243, 243);
+}
+a{
+    text-decoration: line-through;
+    
+}
+p:first-letter{
+    text-transform: uppercase;
+}
